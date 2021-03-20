@@ -65,7 +65,7 @@
                           
                               <div class = "create-btn">
                                   
-                                  <a href="registrationpage.php" class = "btn">create new account</a>
+                                  <a href="index.html" class = "btn">create new account</a>
                                   
                               </div>
                           
